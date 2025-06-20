@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction"
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits (Updated)",
+    "author": "James Clear",
+    "genre": "Self-Help"
+  },
+  {
+    "id": 4,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Biography"
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 6,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "Productivity",
+    "id": 7
+  }
+]
